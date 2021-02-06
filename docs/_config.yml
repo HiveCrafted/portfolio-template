@@ -1,12 +1,12 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : portfolio-template
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+baseurl             : "/portfolio-template"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : HiveCrafted/portfolio-template     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : HiveCrafted/portfolio-template
 
 
 ### Plugins ###
